@@ -1,24 +1,17 @@
-# README
+# 1日のやることリストアプリ(主に土日用)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 目的
 
-Things you may want to cover:
+土日の時間を有効活用したい(ダラダラ過ごして無駄にしたく無い)
 
-* Ruby version
+## 機能
 
-* System dependencies
+- タスクの登録
+- タスクのグループ化
+- グループでの表示
+  - それぞれのタスクのボタンを押すと、設定している時間を計測
+  - 時間が来たらアラームで終了の合図
+- グループの利用ログを集計
+  - どのタスクをどれくらいやったか
+  - 期間指定してみれる
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
